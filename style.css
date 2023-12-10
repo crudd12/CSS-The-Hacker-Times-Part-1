@@ -98,3 +98,9 @@ section > h4 {
   padding-left: 4.2em;
   font-size: 1.2em;
 }
+
+nav {
+  position: sticky;
+  top:0;
+  background-color: white;
+}
